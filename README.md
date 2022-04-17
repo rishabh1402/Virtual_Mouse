@@ -8,17 +8,6 @@ An AI-based mouse controller, that can be used as an alternative to the device.
 * If **Index Finger Up (☝)** => *Move Operation :* The mouse will move according to your hand movements.
 * If **Index & Middle Finger Up (✌)** => *Click Operation :* Click anything on the screen, like how we normally do.
 
-## How to install
-* Install Python 3 in you system from https://www.python.org/.
-* Install the following libraries / packages using the command : **pip install _packageName_**
-  1. cv2
-  2. mediapipe
-  3. math
-  4. numpy
-  5. os
-* Keep both the files along with the *pallet* folder in same directory.
-* Execute the **main.py** to run the program.
-
 ## How is it built
 * **Hand Detection Module** : Class containing the *methods to detect hands & hand's postion*. 
 * Python's **cv2 and mediapipe** libraries : Provide the *modules and methods to get hand landmarks and draw shapes* to mark them. 
@@ -47,6 +36,8 @@ pip install numpy
 ```
 pip install pyautogui
 ```
+
+* Execute the vmouse.py to run the program.
 
 ## Demo
 
