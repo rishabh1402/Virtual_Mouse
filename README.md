@@ -50,7 +50,7 @@ pip install pyautogui
 
 ## Demo
 
-*Video Reference*: [<span style="color: #FE83C6">Python For Beginners</span>](https://www.youtube.com/watch?v=p2APJ0ezTd0)
+*Video Reference*: [<span style="color: #FE83C6">Virtual Mouse</span>](https://www.youtube.com/watch?v=p2APJ0ezTd0)
 <br>
 <br>
 
